@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Linux, Java and Python FOSS projects.
 - 📫 How to reach me:
   - [Email](mailto:github.arturo@nieto.onl)
-  - [Linkedin](linkedin.com/in/arturonieto97)
+  - [Linkedin](https://linkedin.com/in/arturonieto97/)
 
 <!---
 alexis-nieto/alexis-nieto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
