@@ -102,14 +102,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/opensuse/73BA25" height="30" alt="opensuse logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/fedora/51A2DA" height="30" alt="fedora logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/debian/A81D33" height="30" alt="debian logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  />
@@ -117,6 +109,15 @@
   <img src="https://cdn.simpleicons.org/sqlite/003B57" height="30" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/opensuse/73BA25" height="30" alt="opensuse logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/fedora/51A2DA" height="30" alt="fedora logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/debian/A81D33" height="30" alt="debian logo"  />
+
 </div>
 
 ###
