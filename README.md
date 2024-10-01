@@ -1,7 +1,7 @@
 
 ![Banner](https://raw.githubusercontent.com/alexis-nieto/alexis-nieto/main/banner.jpg)
 
-<h2 align="left">👋 Hey there! I’m Alexis 😎<br>🛠️ Electromechanical Engineer and a Work-In-Progress Developer 💻<br>🇲🇽 Chihuahua, Mexico 🌮<br>👨‍💻 My passion lies at the intersection of hardware and software, and I’m always tinkering with tech toys! 🖥️💾🕹️</h2>
+<h2 align="left">👋 Hey there! I’m Alexis 😎<br>🛠️ Electromechanical Engineer and a Work-In-Progress Linux SysAdmin 💻<br>🇲🇽 Chihuahua, Mexico 🌮<br>👨‍💻 My passion lies at the intersection of hardware and software, and I’m always tinkering with tech toys! 🖥️💾🕹️</h2>
 
 ![Follow](https://img.shields.io/github/followers/alexis-nieto.svg?style=social&label=Follow&maxAge=2592000)
 
